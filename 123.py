@@ -1,4 +1,4 @@
-# import tensorflow as tf
+import tensorflow as tf
 import torch
-# print(tf.__version__)
-# print(torch.__version__)
+print(tf.__version__)
+print(torch.__version__)
